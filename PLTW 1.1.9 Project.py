@@ -1,9 +1,6 @@
 #PLTW Lesson 1.1.9 Project
 
 #Author: Ethan Francolla
-#School: North Andover High School
-#School Email: FrancollaET22@northandoverpublicschools.com
-#Personal Email: e.francolla@gmail.com
 
 #This program will attempt to use the features in python and the turtle library to draw a working clock on the screen
 #Due to the limitations of python turtle this program will not be perfectly accurate
